@@ -14,12 +14,12 @@ Soy un Full-Stack Developer con experiencia comprobable en la creación, desplie
 
 ### 🛠️ Stack Tecnológico
 - **Frontend:** React, Astro, Angular, Vue, HTML, CSS.
-- **Backend:** PHP, Laravel.
-- **Lenguajes y Herramientas:** TypeScript, JavaScript, Blade, Git.
+- **Backend:** PHP, Laravel, Node, Python.
+- **Lenguajes y Herramientas:** TypeScript, JavaScript, Blade, Git, C#, C++.
 
 ### ⚡ Un poco sobre mí
 Cuando no estoy resolviendo problemas de arquitectura o subiendo código a producción, seguramente me encuentras escuchando buen indie rock (¡aguante Enjambre y Siddhartha!).
 
 ### 📫 Cómo contactarme
 - **Email:** rubio.leonel1@gmail.com
-- **LinkedIn:** [Pega aquí tu enlace de LinkedIn]
+
