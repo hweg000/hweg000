@@ -17,4 +17,3 @@ Cuando no estoy tirando código, probablemente me encuentres escuchando buen ind
 
 ### 📫 Cómo contactarme
 - **Email:** rubio.leonel1@gmail.com
-- **LinkedIn:** [Pega aquí tu enlace de LinkedIn]
