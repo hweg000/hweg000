@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Julio Rubio 👋
 
-<!--
-**hweg000/hweg000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador enfocado en crear soluciones web sólidas y explorar nuevas tecnologías. Me apasiona construir desde plataformas estructuradas e interfaces limpias hasta aplicaciones móviles interactivas.
 
-Here are some ideas to get you started:
+### 🚀 Lo que estoy haciendo ahora
+- 💻 Construyendo mi portafolio personal para exhibir mis proyectos y demos.
+- 📱 Desarrollando aplicaciones móviles enfocadas en la interacción en tiempo real.
+- 🥽 Explorando el desarrollo para wearables y experiencias inmersivas de realidad mixta.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+- **Frontend:** React, Astro, Angular, Vue, HTML, CSS.
+- **Backend:** PHP, Laravel.
+- **Lenguajes y Herramientas:** TypeScript, JavaScript, Blade, Git.
+
+### ⚡ Dato Curioso
+Cuando no estoy tirando código, probablemente me encuentres escuchando buen indie rock (¡aguante Enjambre y Siddhartha!).
+
+### 📫 Cómo contactarme
+- **Email:** rubio.leonel1@gmail.com
+- **LinkedIn:** [Pega aquí tu enlace de LinkedIn]
