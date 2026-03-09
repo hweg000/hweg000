@@ -1,6 +1,6 @@
 # ¡Hola! Soy Julio Rubio 👋
 
-Soy un Full-Stack Developer con experiencia comprobable en la creación, despliegue y soporte de soluciones de software. Actualmente gestiono y mantengo **más de 10 aplicaciones en producción** en mi entorno laboral, abarcando desde sistemas de gestión de inventarios hasta plataformas de comunicación.
+Soy un Full-Stack Developer con experiencia comprobable en la creación, despliegue y soporte de soluciones de software. Actualmente he desarrollado, gestiono y mantengo **más de 10 aplicaciones en producción** en mi entorno laboral, abarcando desde sistemas de gestión de inventarios hasta plataformas de comunicación.
 
 ### 💼 Experiencia Profesional y Enfoque
 - 🏢 **Desarrollo Empresarial:** Diseño, arquitectura y mantenimiento de sistemas críticos para el flujo de trabajo interno.
