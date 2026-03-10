@@ -37,7 +37,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+**Databases**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 **Infrastructure & Tools**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -47,8 +52,9 @@
 
 <div align="center">
 
-| ![Julio's Stats](https://github-readme-stats.vercel.app/api?username=juliorubio&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorubio&layout=compact&theme=transparent&hide_border=true) |
-| :---: | :---: |
+![Julio's Stats](https://github-readme-stats.vercel.app/api?username=juliorubio&show_icons=true&theme=transparent&hide_border=true&count_private=true) 
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorubio&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
@@ -57,7 +63,9 @@
 ### 📫 Contact Me
 
 * **Email:** [rubio.leonel1@gmail.com](mailto:rubio.leonel1@gmail.com)
-* **LinkedIn:** [linkedin.com/in/juliorubio](https://linkedin.com/in/your-profile) ---
+* **LinkedIn:** [linkedin.com/in/juliorubio](https://linkedin.com/in/juliorubio)
+
+---
 <div align="center">
   <sub>Built with ❤️ by Julio Rubio</sub>
 </div>
