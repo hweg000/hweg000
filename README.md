@@ -1,6 +1,6 @@
 <div align="center">
 
-# Leonel Rubio (Julio)
+# Julio Leonel Rubio
 ### Full Stack Developer | Ingeniero en Computación
 **Building scalable, high-performance software solutions from architecture to production.**
 
