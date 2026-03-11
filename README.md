@@ -1,7 +1,7 @@
 <div align="center">
 
-# Julio Rubio
-### Full Stack Developer
+# Leonel Rubio (Julio)
+### Full Stack Developer | Ingeniero en Computación
 **Building scalable, high-performance software solutions from architecture to production.**
 
 ---
@@ -10,10 +10,10 @@
 
 ### 👤 About Me
 
-* 🏗️ **Enterprise Development:** Designing and maintaining critical systems for internal workflows.
-* 🚀 **Production Management:** Managing the full lifecycle of 10+ active applications, ensuring stability and performance.
-* 💡 **Continuous Innovation:** Researching emerging technologies to maintain high product standards.
-* 🔍 **Current Focus:** Building robust personal architectures, real-time mobile interactions, and wearable software.
+* 🏗️ **Enterprise Development:** Designing critical systems (SEGAOC, Portal_GA) to optimize logistics and internal workflows at Grupo Ascencio.
+* 🚀 **Full Lifecycle Management:** Managing 10+ active applications, from API development (Meta Business Cloud API) to production stability.
+* 🤖 **AI & Innovation:** Implementing modern AI tools (LangChain, LlamaIndex) and data visualization (Chart.js) for smart decision-making.
+* 🔍 **Current Focus:** Building robust architectures, exploring real-time mobile interactions, and wearable software.
 
 ---
 
@@ -30,19 +30,22 @@
 #### **Frontend & UI**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### **Infrastructure, DB & Tools**
+#### **AI & Data Visualization**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### **Infrastructure & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -60,10 +63,10 @@
 
 ### 📫 Contact Me
 
-* 📧 **Email:** [rubio.leonel1@gmail.com](mailto:rubio.leonel1@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/juliorubio](https://linkedin.com/in/juliorubio)
+* 📧 **Email:** [rubio.leonel01@gmail.com](mailto:rubio.leonel01@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/julio-leonel-rubio-ramirez](https://linkedin.com/in/julio-leonel-rubio-ramirez-369b43274)
 
 ---
 <div align="center">
-  <sub>Built with ❤️ by Julio Rubio</sub>
+  <sub>Built with ❤️ by Leonel Rubio</sub>
 </div>
